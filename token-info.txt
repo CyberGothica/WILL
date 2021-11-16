@@ -10,7 +10,6 @@
 		"game-currency"
     ],
     "extensions": {
-		"twitter": "https://twitter.com/Cyber_Gothica",
-		"discord": "https://discord.com/channels/885149106341830666"
+		"twitter": "https://twitter.com/Cyber_Gothica"
     }
 }
