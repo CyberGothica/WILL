@@ -4,7 +4,7 @@
     "symbol": "WILL",
     "name": "Will",
     "decimals": 0,
-    "logoURI": " ",
+    "logoURI": "https://raw.githubusercontent.com/CyberGothica/WILL/main/logo.png",
     "tags": [
 		"game-token",
 		"game-currency"
